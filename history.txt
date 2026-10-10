@@ -1,0 +1,20 @@
+    1  pwd
+    2  ls
+    3  cd oss
+    4  pwd
+    5  ls
+    6  cd OneDrive
+    7  pwd
+    8  ls
+    9  ls -1
+   10  ls -l
+   11  cd ..
+   12  ls
+   13  ls -lh
+   14  clear
+   15  pwd
+   16  ls -lh
+   17  nano myscript.sh
+   18  history
+   19  histroy > history.text
+   20  history > history.txt
